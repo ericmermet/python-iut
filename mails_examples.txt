@@ -1,0 +1,68 @@
+
+From: alice@example.com
+To: bob@example.com
+Subject: Réunion de projet
+Date: 01/10/2024
+
+Bonjour Bob,
+
+Je te confirme que la réunion de projet aura lieu ce vendredi à 10h. Merci de préparer le rapport de la semaine dernière.
+
+Cordialement,
+Alice
+
+---
+
+From: charles@example.com
+To: team@example.com
+Subject: Mise à jour du planning - important
+Date: 02/10/2024
+
+Bonjour à tous,
+
+Voici le planning mis à jour pour le mois d'octobre. N'hésitez pas à me faire part de vos disponibilités.
+
+Bien à vous,
+Charles
+
+---
+
+From: eve@example.com
+To: alice@example.com
+Subject: Question sur le rapport
+Date: 03/10/2024
+
+Salut Alice,
+
+Peux-tu m'envoyer les données du dernier rapport d'activité ? J'aimerais les inclure dans ma présentation.
+
+Merci,
+Eve
+
+---
+
+From: marketing@example.com
+To: all@example.com
+Subject: Offre spéciale de formation interne
+Date: 04/10/2024
+
+Chers collègues,
+
+Nous avons le plaisir de vous annoncer une nouvelle offre de formation interne sur les outils numériques. Inscrivez-vous rapidement !
+
+Cordialement,
+L'équipe marketing
+
+---
+
+From: david@example.com
+To: support@example.com
+Subject: Problème d'accès à la plateforme
+Date: 05/10/2024
+
+Bonjour,
+
+Je rencontre un problème pour accéder à la plateforme. Un message d'erreur apparaît à chaque tentative de connexion. Pouvez-vous m'aider à résoudre ce souci ? C'est important !
+
+Merci d'avance,
+David
